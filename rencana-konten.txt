@@ -8,4 +8,4 @@ rencana konten:
 3. video css
 4. Laravel
 5. Python
-
+6. ini tambahan dari fork
