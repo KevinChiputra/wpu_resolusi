@@ -2,7 +2,10 @@ rencana konten:
 1. video js
   JS6
   konten js
-  Angular
+  vue
   React
+2. video html
 3. video css
-  Laravel
+4. Laravel
+5. Python
+
