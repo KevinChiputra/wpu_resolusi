@@ -1,4 +1,6 @@
 rencana konten:
 1. video js
+  JS6
+  konten js
 2. video html
 3. video css
