@@ -2,5 +2,8 @@ rencana konten:
 1. video js
   JS6
   konten js
+  vue
 2. video html
 3. video css
+4. Laravel
+5. Python
