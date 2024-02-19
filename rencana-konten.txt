@@ -3,6 +3,7 @@ rencana konten:
   JS6
   konten js
   vue
+  React
 2. video html
 3. video css
 4. Laravel
